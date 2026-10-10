@@ -86,13 +86,14 @@ Start the application using:
 npm start
 ```
 
+```bash
+node index
+```
+
 Or run in development mode (if `nodemon` is configured):
 
 ```bash
 npm run dev
-```
-```bash
-node index
 ```
 
 ```bash
