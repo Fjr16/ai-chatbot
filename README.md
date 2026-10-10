@@ -53,8 +53,8 @@ This application allows users to interact with Gemini models using **text, image
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Fjr16/ai-chatbot.git
+cd ai-chatbot
 ```
 
 ### 2. Install Dependencies
